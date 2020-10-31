@@ -1,3 +1,7 @@
 main {
   display: flex;
 }
+
+#books-list {
+  position: fixed;
+}
